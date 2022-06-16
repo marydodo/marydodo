@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marydodo
-- 👀 I’m interested in collecting hobbies.
+- 👀 I love collecting hobbies.
 - 🌱 I’m currently learning all things code.
 
 <!---
